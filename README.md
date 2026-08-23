@@ -15,7 +15,6 @@
 <p align="center">
 CS grad who spent 3 years marketing for a metal fabrication company — driveway gates & fences for commercial projects.<br/>
 Being that close to the shop floor pulled me two ways: I wanted to design the hardware myself, and I saw how much material and carbon gets wasted in the process.<br/>
-So now I design safety hardware, I'm heading toward carbon accounting, and on the side I build small tools with AI. 🌱
 </p>
 
 <br>
@@ -29,11 +28,7 @@ So now I design safety hardware, I'm heading toward carbon accounting, and on th
 </p>
 <p align="center"><sub>Ran ads for driveway gates & fences on commercial projects — my first close look at manufacturing</sub></p>
 
-<h3 align="center">🏗️ Now · Product Design</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/AutoCAD-000000?style=for-the-badge&logo=autocad&logoColor=white" />
-</p>
-<p align="center"><sub>Aluminum access control ladders & fall protection systems — went from marketing the hardware to designing it</sub></p>
+<p align="center"><sub>I design access control ladders & fall protection systems for fun</sub></p>
 
 <h3 align="center">🤖 Every day · Building with AI</h3>
 <p align="center">
@@ -44,14 +39,13 @@ So now I design safety hardware, I'm heading toward carbon accounting, and on th
 </p>
 <p align="center"><sub>Most of what's pinned below started as "I wonder if I can build this in an afternoon"</sub></p>
 
-<h3 align="center">🌱 Next · Environment & ESG</h3>
+<h3 align="center">🌱 Notable Mention: Passionate About Environment & Sustainability</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Carbon_Credits-2E7D32?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Sustainability-2E7D32?style=for-the-badge" />
   <img src="https://img.shields.io/badge/ESG-2E7D32?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Carbon_Accounting-2E7D32?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Net_Zero-2E7D32?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Climate_Change-2E7D32?style=for-the-badge" />
 </p>
-<p align="center"><sub>Watched how much material & carbon a fabrication shop burns through — haven't worked in this space yet, but actively moving there</sub></p>
-
 <br>
 
 <p align="center"><i>Not a career changer — a career adder.</i></p>
